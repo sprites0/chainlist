@@ -4,7 +4,8 @@ export const data = {
     "icon": "hyperliquid",
     "rpc": [
       "https://rpc.hyperliquid.xyz/evm",
-      "https://rpc.hypurrscan.io"
+      "https://rpc.hypurrscan.io",
+      "https://hl-archive-node.xyz"
     ],
     "features": [{ "name": "EIP155" }, { "name": "EIP1559" }],
     "faucets": [],
